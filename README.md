@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leoillanez777
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning quasar
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me leonardoilla777@icloud.com
 
