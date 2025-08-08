@@ -26,7 +26,8 @@ I specialize in creating solutions that seamlessly integrate frontend and backen
 ---
 
 📫 **Let’s connect:**  
-[LinkedIn]([https://www.linkedin.com/in/leonardoillanez]) • [GitHub](https://github.com/leoillane777)
+• [LinkedIn](https://www.linkedin.com/in/leonardoillanez) 
+• [GitHub](https://github.com/leoillane777)
 
 
 Feel free to connect! 🚀
